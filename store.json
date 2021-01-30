@@ -1,0 +1,17 @@
+[
+  "101": {
+    "name" : "levoglucosan",
+    "cost" : 20,
+    "ml" : "1"
+  },
+  "102": {
+    "name" : "levoglucosan",
+    "cost" : 40,
+    "ml" : "2"
+  },
+  "103": {
+    "name" : "levoglucosan",
+    "cost" : 100,
+    "ml" : "5"
+  }
+]
