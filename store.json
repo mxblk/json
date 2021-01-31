@@ -1,0 +1,23 @@
+{
+  "101":{
+    "name":"Quadro",
+    "price":599,
+    "description": "",
+    "order":1,
+    "img":"img/1.png"
+  },
+  "102":{
+    "name":"Mono",
+    "price":359,
+    "description": "",
+    "order":2,
+    "img":"img/2.png"
+  },
+  "103":{
+    "name":"Octa",
+    "price":799,
+    "description": "",
+    "order":3,
+    "img":"img/3.png"
+  }
+}
